@@ -1,20 +1,19 @@
 /**
- * GitHub ¿¬½À¿ë ÀÚ¹Ù ¿¹Á¦
- * ÀÚ½ÅÀÇ ÀÌ¸§À» ³²±â¼¼¿ä!!!
+ * GitHub ì—°ìŠµìš© ìžë°” ì˜ˆì œ
+ * ìžì‹ ì˜ ì´ë¦„ì„ ë‚¨ê¸°ì„¸ìš”!!!
  * @author progh2
  *
  */
 public class HelloWorld {
 
 	/**
-	 * @param args »ç¿ë¾ÈÇÔ
+	 * @param args ì‚¬ìš©ì•ˆí•¨
 	 */
 	public static void main(String[] args) {
-		System.out.println("2013³â 01¿ù 22ÀÏ¿¡ ÇÔ±âÈÆ´ÔÀÌ ¸»ÇÕ´Ï´Ù. Çï·Î¿ì ¿ùµå?");	// ÇÔ±âÈÆ ÀÎ»ç Ãß°¡
+		System.out.println("2013ë…„ 01ì›” 22ì¼ì— í•¨ê¸°í›ˆë‹˜ì´ ë§í•©ë‹ˆë‹¤. í—¬ë¡œìš° ì›”ë“œ?");	// í•¨ê¸°í›ˆ ì¸ì‚¬ ì¶”ê°€
 		
-		// TODO: ¿©·¯ºÐÀÇ ÀÎ»ç ¼Ò½º ÄÚµå¸¦ ¾Æ·¡ Çà¿¡ ¼ø¼­´ë·Î Ãß°¡ÇØ º¸¼¼¿ä. 
-		// System.out.println("2013³â 01¿ù 22ÀÏ¿¡ ÀÌ¹Ì¸²´ÔÀÌ ¸»ÇÕ´Ï´Ù. NiHaoMa?");
-		
+		// TODO: ì—¬ëŸ¬ë¶„ì˜ ì¸ì‚¬ ì†ŒìŠ¤ ì½”ë“œë¥¼ ì•„ëž˜ í–‰ì— ìˆœì„œëŒ€ë¡œ ì¶”ê°€í•´ ë³´ì„¸ìš”. 
+		// System.out.println("2013ë…„ 01ì›” 22ì¼ì— ì´ë¯¸ë¦¼ë‹˜ì´ ë§í•©ë‹ˆë‹¤. NiHaoMa?");
 
 	}
 
