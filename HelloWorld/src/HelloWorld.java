@@ -15,6 +15,8 @@ public class HelloWorld {
 		// TODO: 여러분의 인사 소스 코드를 아래 행에 순서대로 추가해 보세요. 
 		// System.out.println("2013년 01월 22일에 이미림님이 말합니다. NiHaoMa?");
 
+		System.out.println("2013년 01월 22일에 이미림님이 말합니다. NiHaoMa?");
+		
 	}
 
 }
